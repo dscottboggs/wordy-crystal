@@ -13,7 +13,7 @@ You're welcome.
    ```yaml
    dependencies:
      wordy:
-       github: dscottboggs/wordy
+       github: dscottboggs/wordy-crystal
    ```
 
 2. Run `shards install`
@@ -34,7 +34,7 @@ This is a half-joke shard, but if you feel like being in on the joke and can thi
 
 ## Contributing
 
-1. Fork it (<https://github.com/dscottboggs/wordy/fork>)
+1. Fork it (<https://github.com/dscottboggs/wordy-crystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
