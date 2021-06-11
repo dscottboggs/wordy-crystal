@@ -1,0 +1,9 @@
+name: wordy
+version: 0.1.0
+
+authors:
+  - Scott Boggs <scott@tams.tech>
+
+crystal: 1.0.0
+
+license: MIT
